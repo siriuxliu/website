@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: YIFEI LIU
   avatar: bio-photo.jpg
-  bio: "Just another boring, time traveling, tattooed, designer from Buffalo New York."
-  disqus-shortname: minimalmistakes
-  twitter: mmistakes
-  facebook: michaelrose
+  bio: "Technology is the advancement of aesthetics."
+  #disqus-shortname: minimalmistakes
+  #twitter: mmistakes
+  #facebook: michaelrose
   google:
     plus: MichaelRoseDesign
     analytics: UA-2011187-3
