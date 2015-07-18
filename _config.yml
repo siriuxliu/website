@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Minimal Mistakes
+title:            Homepage
 locale:           en_US
-url:              //mmistakes.github.io/minimal-mistakes
+url:              //www.siriuxliu.com
 
 
 # Jekyll configuration
@@ -27,20 +27,20 @@ kramdown:
 # Site owner
 owner:
   name: YIFEI LIU
-  avatar: bio-photo.jpg
+  avatar: Photo_liu.png
   bio: "Technology is the advancement of aesthetics."
   #disqus-shortname: minimalmistakes
   #twitter: mmistakes
   #facebook: michaelrose
-  google:
+    #google:
     plus: MichaelRoseDesign
     analytics: UA-2011187-3
     verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
     ad-client: ca-pub-7328585512091257
     ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
-  github: mmistakes
-  instagram: mmistakes
+#bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+  github: siriuxliu
+#instagram: mmistakes
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
