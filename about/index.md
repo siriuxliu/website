@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Education
+title: About
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 image:
@@ -9,7 +9,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-%Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Each time when I recall the time changing study area from Art to Eletrical Engineering, the word *Technology is the advancement of aesthetics.* come to mind. 
 
 ## Working Experince
 
